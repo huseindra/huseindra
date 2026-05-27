@@ -1,29 +1,12 @@
 ### Hi there 👋
 
-I’m Husein Indra Kusuma — passionate about **building real-world simulations with synthetic data** to power **secure, trustworthy AI systems** for complex decision-making.  
+I’m Husein Indra Kusuma — building AI systems focused on real-world operations, governance, and decision-making. My work revolves around creating reliable AI infrastructures that are secure, measurable, and ready for production environments.
 
-- 🧑‍💻 Coding with JavaScript/TypeScript, Python, and currently exploring Rust  
-- ⚡️ Tools I use: React, Next.js, Gatsby, Node.js, Jest, Redux, Firebase, MySQL, MongoDB, PostgreSQL, Laravel, TailwindCSS, Chakra, Ant Design, PageSpeed Insights — plus **n8n automation** to streamline workflows  
-- 🤖 Focus areas: **Synthetic Data**, **Multi-Agent Systems**, and **AI for Organizational Innovation Management**  
-- 🌍 Additional service: delivering **digital transformation** for conventional businesses with optimal cost  
-- 🚀 My long-term mission: enable organizations to innovate faster, safer, and smarter through responsible AI and simulation-driven insights  
+* 🧑‍💻 Working with JavaScript/TypeScript, Python, Go, and currently exploring Rust
+* ⚡️ Tools & ecosystem: React, Next.js, Node.js, FastAPI, MongoDB, PostgreSQL, Docker, TailwindCSS, LangChain, and n8n for workflow automation
+* 🤖 Current focus: AI Operating Governance, Multi-Agent Systems, Synthetic Data, and AI-driven Decision Systems
+* 🏢 Experienced in helping organizations bridge business operations with scalable digital and AI transformation
+* 📊 Interested in building systems where AI is not only intelligent, but also controllable, observable, and operationally reliable
+* 🚀 Long-term mission: helping organizations adopt AI responsibly through strong systems, governance, and simulation-driven approaches
 
-📫 Reach me at **husein@monago.io**
-
-<!-- On the other hand, I was former Community Lead at <a href="https://developers.google.com/community/gdsc" target="_blank"> Google DSC </a> -->
-
-
-<!--
-**huseindra/huseindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at **[husein@monago.io](mailto:husein@monago.io)**
